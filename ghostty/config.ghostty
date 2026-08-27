@@ -1,0 +1,10 @@
+theme = "TokyoNight Night"
+
+background-opacity = 0.9
+background = #031219
+
+font-family = "IosevkaTerm Nerd Font"
+#font-family = "Jetbrains-mono"
+
+cursor-style = block
+cursor-style-blink = true
